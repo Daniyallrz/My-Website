@@ -10,7 +10,7 @@
 // Made with By Daniyal, Copyright © 2024 All rights of this site are reserved 
 
 
-// Encrypted By : Daniyallrz.ir/kobi.fozoale
+/// Encrypted By : Daniyallrz.ir/kobi.fozoale
 
 
 
